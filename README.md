@@ -1,7 +1,7 @@
 # Zendo_get_DOI
 Get the dataset from Zendo using DOI 
 
-Only JSON type support
+Only JSON type support now
 
 Simple example source code
 
